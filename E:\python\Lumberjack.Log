@@ -1,0 +1,26 @@
+INFO:root:Our first message.
+INFO 2021-03-10 17:08:37,539 - Our first message.
+INFO 2021-03-10 17:16:07,340 - Our first message.
+DEBUG 2021-03-10 17:16:07,340 - This is just a harmless debug message.
+INFO 2021-03-10 17:16:07,340 - Just some useful info.
+WARNING 2021-03-10 17:16:07,340 - I'm sorry, but I can't do that.
+ERROR 2021-03-10 17:16:07,340 - Did you just try to divide by zero?
+CRITICAL 2021-03-10 17:16:07,341 - The entire internet is down!
+INFO 2021-03-10 17:26:58,974 - Our first message.
+DEBUG 2021-03-10 17:26:58,974 - This is just a harmless debug message.
+INFO 2021-03-10 17:26:58,974 - Just some useful info.
+WARNING 2021-03-10 17:26:58,974 - I'm sorry, but I can't do that.
+ERROR 2021-03-10 17:26:58,974 - Did you just try to divide by zero?
+CRITICAL 2021-03-10 17:26:58,974 - The entire internet is down!
+INFO 2021-03-10 17:26:58,975 - quadratic_formula(1, 0, -4)
+DEBUG 2021-03-10 17:26:58,975 - # Compute the discriminant
+INFO 2021-03-10 17:27:19,096 - Our first message.
+DEBUG 2021-03-10 17:27:19,097 - This is just a harmless debug message.
+INFO 2021-03-10 17:27:19,097 - Just some useful info.
+WARNING 2021-03-10 17:27:19,097 - I'm sorry, but I can't do that.
+ERROR 2021-03-10 17:27:19,097 - Did you just try to divide by zero?
+CRITICAL 2021-03-10 17:27:19,097 - The entire internet is down!
+INFO 2021-03-10 17:27:19,097 - quadratic_formula(1, 0, -4)
+DEBUG 2021-03-10 17:27:19,097 - # Compute the discriminant
+DEBUG 2021-03-10 17:27:19,097 - # Compute the two roots
+DEBUG 2021-03-10 17:27:19,098 - # Return the roots

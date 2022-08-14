@@ -1,0 +1,3 @@
+Guido van Rossum is the creator of Python, one of the major programming languages
+on and off the web. The Python community refers to him as the BDFL (Benevolent
+Director For Life), a title straight from a Monty Python skit.
